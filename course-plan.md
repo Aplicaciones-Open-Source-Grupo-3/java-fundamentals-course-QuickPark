@@ -52,7 +52,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   * Ejercicio 2: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3h)
   * Ejercicio 3: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3i)
   * Ejercicio 4: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3j)
-- **Mini reto**: 
+- **Mini reto**: Crear una calculadora que use if/else y bucles
 
 ### Sesión 4: Métodos y entrada/salida
 - **Descripción:** En esta sesión se explica qué son los métodos en Java, cómo definirlos, enviar parámetros y devolver valores. Además, se muestra cómo interactuar con el usuario mediante `Scanner` y `System.out.println()`
@@ -62,7 +62,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   * Scanner permite interactuar con el usuario
 - **Práctica**:
   * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3k)
-- **Mini reto**: 
+- **Mini reto**: Crear un método que reciba nombre y edad e imprima un mensaje
 
 ### Sesión 5: Programación orientada a objetos
 - **Descripción:** Introducción a la Programación Orientada a Objetos (POO) en Java. Se explican los conceptos de clase, objeto, atributos, métodos, encapsulación y constructores, aplicándolos en un mini proyecto práctico
@@ -72,7 +72,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   * La encapsulación protege los datos
 - **Práctica**:
   * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3l)
-- **Mini reto**: 
+- **Mini reto**: Crear una clase Persona con constructor y métodos
 
 ---
 
