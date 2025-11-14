@@ -5,11 +5,16 @@
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
 **Duración:** ~60 minutos  
+
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación 
+
 **Prerrequisitos**: Ninguno
+
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
 **Repositorio:** [https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso](https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso)
+
+--- 
 
 ## Secuencia de lecciones
 
@@ -22,7 +27,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Práctica**:
   * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1Q)
   * Ejercicio 2: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1T)
-- **Mini reto**: 
+- **Mini reto**: Modificar el mensaje para que imprima 3 datos sobre ti
 
 ### Sesión 2: Variables y tipos de datos
 - **Descripción:** Variables, tipos de datos (int, double, String) y operaciones básicas
@@ -33,7 +38,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Práctica**:
   * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1U)
   * Ejercicio 2: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1V)
-- **Mini reto**: 
+- **Mini reto**: Realizar una calculadora que permita sumar, restar, dividir y multiplicar
 
 ### Sesión 3: Operadores y estructuras de control
 - **Descripción:** Se introducen los operadores aritméticos, de comparación y lógicos, así como las estructuras de decisión (`if`, `else`, `switch`) y bucles (`for`, `while`).  
@@ -63,6 +68,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Práctica**: [Abrir JDoodle]()
 - **Mini reto**: 
 
+---
 
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso)
@@ -70,12 +76,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Número de lección | Actividad | Empezar a programar |
 |----------|----------|-------------|
-| 1 | Hola mundo | [JDoodle]() |
-| 2 | Variables | [JDoodle]() |
-| 3 | Bucles | [JDoodle]() |
-| 4 | Métodos y clases | [JDoodle]() |
-| 5 | Programa OOP | [[JDoodle]() |
-- Cuestionario: 
+| 1 | Ejercicio 1 | [JDoodle](https://www.jdoodle.com/ia/1N1Q) |
+| 1 | Ejercicio 2 | [JDoodle](https://www.jdoodle.com/ia/1N1T) |
+| 2 | Ejercicio 1 | [JDoodle](https://www.jdoodle.com/ia/1N1U) |
+| 2 | Ejercicio 2 | [JDoodle](https://www.jdoodle.com/ia/1N1V) |
+| 3 |  | [JDoodle]() |
+| 4 |  | [JDoodle]() |
+| 5 |  | [JDoodle]() |
+
 - Compartir: #JavaBeginners
 
 **¡Gracias por completar el curso!** 
@@ -84,10 +92,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas Carrera de Ingeniería de Software
+
 Período 202520
+
 1ASI0729 Desarrollo de Aplicaciones Open Source NRC 7351
+
 **Nombre del equipo**: QuickPark
+
 **Líder del equipo**: Piero Hugo Elescano Leon
+
 **Integrantes del equipo**: 
 
 - Fátima Belén Florez Shimabukuro
