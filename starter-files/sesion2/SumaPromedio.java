@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         // TODO: pedir tres números al usuario
-        // TODO: calcular suma, resta, multiplicación y división
+        // TODO: calcular suma y promedio
         // TODO: mostrar los resultados
 
         sc.close();
