@@ -15,57 +15,57 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Sesión 1: ¿Qué es la programación y por qué Java?
 - **Descripción:** Introducción a la programación, qué es un lenguaje de programación, y por qué Java es una buena opción para empezar
-- **Enlace al video:** [Ver la lección] (https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave**:
   * Programar significa dar instrucciones a una computadora
   * Java es multiplataforma y usado en miles de aplicaciones reales
 - **Práctica**:
-  * Ejercicio 1: [Abrir JDoodle] (https://www.jdoodle.com/ia/1N1Q)
-  * Ejercicio 2: [Abrir JDoodle] (https://www.jdoodle.com/ia/1N1T)
+  * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1Q)
+  * Ejercicio 2: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1T)
 - **Mini reto**: 
 
 ### Sesión 2: Variables y tipos de datos
 - **Descripción:** Variables, tipos de datos (int, double, String) y operaciones básicas
-- **Enlace al video:** [Ver la lección] (https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave**:
   * Una variable almacena información
   * Los tipos de datos ayudan a definir qué tipo de valor puedes guardar
 - **Práctica**:
-  * Ejercicio 1: [Abrir JDoodle] (https://www.jdoodle.com/ia/1N1U)
-  * Ejercicio 2: [Abrir JDoodle] (https://www.jdoodle.com/ia/1N1V)
+  * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1U)
+  * Ejercicio 2: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1V)
 - **Mini reto**: 
 
 ### Sesión 3: Operadores y estructuras de control
 - **Descripción:** Se introducen los operadores aritméticos, de comparación y lógicos, así como las estructuras de decisión (`if`, `else`, `switch`) y bucles (`for`, `while`).  
-- **Enlace al video:** [Ver la lección] (https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave**:
   * Los operadores permiten comparar valores
   * Los condicionales sirven para tomar decisiones
   * Los bucles repiten acciones
-- **Práctica**: [Clic para programar] ()
+- **Práctica**: [Abrir JDoodle]()
 - **Mini reto**: 
 
 ### Sesión 4: Métodos y entrada/salida
 - **Descripción:** En esta sesión se explica qué son los métodos en Java, cómo definirlos, enviar parámetros y devolver valores. Además, se muestra cómo interactuar con el usuario mediante `Scanner` y `System.out.println()`
-- **Enlace al video:** [Ver la lección] (https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave**:
   * Un método organiza y reutiliza código
   * Scanner permite interactuar con el usuario
-- **Práctica**: [Clic para programar] ()
+- **Práctica**: [Abrir JDoodle]()
 - **Mini reto**: 
 
 ### Sesión 5: Programación orientada a objetos
 - **Descripción:** Introducción a la Programación Orientada a Objetos (POO) en Java. Se explican los conceptos de clase, objeto, atributos, métodos, encapsulación y constructores, aplicándolos en un mini proyecto práctico
-- **Enlace al video:** [Ver la lección] (https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave**:
   * Una clase es un plano; un objeto es una instancia
   * La encapsulación protege los datos
-- **Práctica**: [Clic para programar] ()
+- **Práctica**: [Abrir JDoodle]()
 - **Mini reto**: 
 
 
 ## Recursos adicionales
-- **Código fuente completo**: [Repositorio de GitHub] (https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso)
 - **Todas las actividades prácticas**:
 
 | Número de lección | Actividad | Empezar a programar |
