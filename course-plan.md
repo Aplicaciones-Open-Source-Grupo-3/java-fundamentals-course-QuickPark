@@ -47,7 +47,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   * Los operadores permiten comparar valores
   * Los condicionales sirven para tomar decisiones
   * Los bucles repiten acciones
-- **Práctica**: [Abrir JDoodle]()
+- **Práctica**:
+  * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3g)
+  * Ejercicio 2: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3h)
+  * Ejercicio 3: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3i)
+  * Ejercicio 4: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3j)
 - **Mini reto**: 
 
 ### Sesión 4: Métodos y entrada/salida
@@ -56,7 +60,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**:
   * Un método organiza y reutiliza código
   * Scanner permite interactuar con el usuario
-- **Práctica**: [Abrir JDoodle]()
+- **Práctica**:
+  * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3k)
 - **Mini reto**: 
 
 ### Sesión 5: Programación orientada a objetos
@@ -65,7 +70,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**:
   * Una clase es un plano; un objeto es una instancia
   * La encapsulación protege los datos
-- **Práctica**: [Abrir JDoodle]()
+- **Práctica**:
+  * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N3l)
 - **Mini reto**: 
 
 ---
@@ -80,9 +86,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Ejercicio 2 | [JDoodle](https://www.jdoodle.com/ia/1N1T) |
 | 2 | Ejercicio 1 | [JDoodle](https://www.jdoodle.com/ia/1N1U) |
 | 2 | Ejercicio 2 | [JDoodle](https://www.jdoodle.com/ia/1N1V) |
-| 3 |  | [JDoodle]() |
-| 4 |  | [JDoodle]() |
-| 5 |  | [JDoodle]() |
+| 3 | Ejercicio 1 | [JDoodle](https://www.jdoodle.com/ia/1N3g) |
+| 3 | Ejercicio 2 | [JDoodle](https://www.jdoodle.com/ia/1N3h) |
+| 3 | Ejercicio 3 | [JDoodle](https://www.jdoodle.com/ia/1N3i) |
+| 3 | Ejercicio 4 | [JDoodle](https://www.jdoodle.com/ia/1N3j) |
+| 4 | Ejercicio 1 | [JDoodle](https://www.jdoodle.com/ia/1N3k) |
+| 5 | Ejercicio 1 | [JDoodle](https://www.jdoodle.com/ia/1N3l) |
 
 - Compartir: #JavaBeginners
 
