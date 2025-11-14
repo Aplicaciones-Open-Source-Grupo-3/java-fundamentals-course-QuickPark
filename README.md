@@ -25,3 +25,35 @@ El curso se divide en **5 sesiones** progresivas:
 
 ---
 
+## Cómo usar este repositorio
+
+1. **Elige una sesión** en la tabla anterior
+2. **Mira el video correspondiente**
+3. Sigue las instrucciones del video para completar los ejercicios y mini retos
+4. Si necesitas revisar una solución, visita la carpeta `completed-examples` para esa sesión
+
+---
+
+## Estructura de carpetas
+
+- `starter-files/`  
+  Código base para que los estudiantes comiencen cada ejercicio o mini reto sin la solución completa
+
+- `completed-examples/`  
+  Soluciones completas de los ejemplos explicados en las sesiones y de los mini retos
+
+- `scripts/`  
+  Materiales usados para preparar los videos
+
+- `README.md`  
+  Este archivo, con la descripción general del curso y cómo usar el repositorio
+
+---
+
+No es necesario instalar nada para comenzar. Puedes usar:
+
+- [JDoodle](https://www.jdoodle.com/)
+
+
+
+
