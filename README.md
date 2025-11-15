@@ -54,6 +54,9 @@ No es necesario instalar nada para comenzar. Puedes usar:
 
 - [JDoodle](https://www.jdoodle.com/)
 
-
-
-
+## Elaboracion
+Integrantes del equipo:
+- Piero Hugo Elescano Leon
+- Fátima Belén Florez Shimabukuro
+- Moisés Filemón Espinoza Chávez
+- Marco Antonio Nakasone Gomes
